@@ -9,9 +9,11 @@
     <!-- Here is the header and contact for the page. -->
     <div class="container">
         <h1>About Me</h1>
-        <p>A Student in computer programmer analyst(COPA) semester 4 who come from 
+        <div class="bg-default2">
+            <p>A Student in computer programmer analyst(COPA) semester 4 who come from 
             Hong Kong. Like to play online games, watch Japanese animations,
             listen to musics, and read Japanese comics in free time.
-        </p>
+            </p>
+        </div>
     </div>
 </asp:Content>

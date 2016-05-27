@@ -55,7 +55,7 @@
     </div>
     </form>
     <!-- footer and link to my facebook and github page -->
-    <footer>
+    <footer runat="server">
         <div class="col-md-8 col-md-offset-2">
           <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/blanche.tsoi"><i class="fa fa-facebook"></i></a>
           <a class="btn btn-social-icon btn-github" href="https://github.com/blanche0416"><i class="fa fa-github"></i></a>

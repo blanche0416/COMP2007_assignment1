@@ -1,7 +1,7 @@
 ﻿<%--  File name: Contact.aspx --%>
 <%--  Author's name: Pui In Kwok --%>
 <%--  Web site name: Portfolio --%>
-<%--  File description: Here is contactt page with my contact info 
+<%--  File description: Here is contact page with my contact info 
                        and allow user to enter their
                        info and message and submit it. --%>
 

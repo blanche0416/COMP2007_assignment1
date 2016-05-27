@@ -9,6 +9,8 @@
     <!-- Here is the header and contact for the page. -->
     <div class="container">
         <h1>Home Page</h1>
-        <p>This is assignment 1 for COMP2007</p>
+        <div class="bg-default2">
+            <p>This is assignment 1 for COMP2007</p>
+        </div>
     </div>
 </asp:Content>
