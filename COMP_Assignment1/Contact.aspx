@@ -1,10 +1,11 @@
-﻿<!-- File name: Contact.aspx -->
-<!-- Author's name: Pui In Kwok -->
-<!-- Web site name: Portfolio -->
-<!-- File description: Here is contactt page with my contact info 
+﻿<%--  File name: Contact.aspx --%>
+<%--  Author's name: Pui In Kwok --%>
+<%--  Web site name: Portfolio --%>
+<%--  File description: Here is contactt page with my contact info 
                        and allow user to enter their
-                       info and message and submit it. -->
-<%@ Page Title="" Language="C#" MasterPageFile="~/SiteForContact.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP_Assignment1.Contact" %>
+                       info and message and submit it. --%>
+
+<%@ Page Title="Contact" Language="C#" MasterPageFile="~/SiteForContact.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP_Assignment1.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">

@@ -1,8 +1,9 @@
-﻿<!-- File name: Projects.aspx -->
-<!-- Author's name: Pui In Kwok -->
-<!-- Web site name: Portfolio -->
-<!-- File description: This page the project page. -->
-<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP_Assignment1.Projects" %>
+﻿<%--  File name: Projects.aspx --%>
+<%--  Author's name: Pui In Kwok --%>
+<%--  Web site name: Portfolio --%>
+<%--  File description: This page the project page. --%>
+
+<%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP_Assignment1.Projects" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Here is the header and projects info. -->
