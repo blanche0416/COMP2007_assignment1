@@ -1,0 +1,38 @@
+﻿/*
+ *File name: app.css
+ *Author's name: Pui In Kwok 
+ *Web site name: Portfolio
+ *File description: style sheet for the website
+*/
+
+/* define size and make it center*/
+.bg-default2{
+    padding: 15px 5px;
+    width:700px;
+    margin-left:220px;
+}
+
+/*Css for services page*/
+/* make service center*/
+.service{
+    text-align:center;
+}
+
+/*Css for projects page*/
+/* setting for li*/
+ul.project li{
+    display: inline-table;
+    padding-left:0px;
+    padding-right:70px;
+}
+/* sett img's size*/
+.img-thumbnail{
+    width:250px;
+    height:150px;
+}
+/* setting for detail*/
+.detail{
+    text-indent:0em;
+    width:250px;
+    text-align:center;
+}
