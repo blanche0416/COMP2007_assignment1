@@ -9,7 +9,7 @@
     <!-- Here is the header and services info. -->
     <div class="container">
         <h1>Services</h1>
-        <div class="service"><p class="bg-default2">Web development - CSS, HTML, PHP</p></div>
-	    <div class="service"><p class="bg-default2">Programming - JAVA</p></div>
+        <div class="service"><p class="bg-default2">Web development - CSS, HTML, PHP, JSON, C#</p></div>
+	    <div class="service"><p class="bg-default2">Programming - JAVA, C++</p></div>
     </div>
 </asp:Content>

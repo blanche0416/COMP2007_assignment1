@@ -5,11 +5,16 @@
  *File description: style sheet for the website
 */
 
-/* define size and make it center*/
+/* define size and make it cental*/
 .bg-default2{
     padding: 15px 5px;
     width:700px;
     margin-left:220px;
+}
+
+/* make h1 cental*/
+h1{
+    text-align:center;
 }
 
 /*Css for services page*/
