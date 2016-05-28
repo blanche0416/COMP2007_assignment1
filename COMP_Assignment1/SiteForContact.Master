@@ -57,9 +57,10 @@
     <!-- footer and link to my facebook and github page -->
     <footer runat="server">
         <nav class="navbar-fixed-bottom">
-            <div class="col-md-8">
+            <div class="col-md-offset-8 col-md-3">
               <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/blanche.tsoi"><span class="fa fa-facebook"></span></a>
               <a class="btn btn-social-icon btn-github" href="https://github.com/blanche0416"><span class="fa fa-github"></span></a>
+              <br />
             </div>
         </nav>
     </footer>
