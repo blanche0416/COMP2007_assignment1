@@ -41,3 +41,12 @@ ul.project li{
     width:250px;
     text-align:center;
 }
+
+/* set social icon's background color */
+.btn-facebook{
+    background-color:#3b5998;
+}
+
+.btn-github {
+    background-color:#444444;
+}

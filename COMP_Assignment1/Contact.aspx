@@ -16,7 +16,7 @@
         </div>
         <div class="row">
             <!-- Here is the my contact info -->
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h3 class="panel-title">Contact Info</h3>
@@ -33,7 +33,6 @@
             </div>
             <!-- Here is the from for user to enter their info and message -->
             <div class="col-md-6">
-                <h1>Contact Us</h1>
                 <div class="form-group">
                     <label class="control-label" for="FirstNameTextBox">First Name</label>
                     <asp:TextBox runat="server" CssClass="form-control" ID="FirstNameTextBox" placeholder="Enter your first name here" required="true"></asp:TextBox>
