@@ -5,7 +5,7 @@
                        and allow user to enter their
                        info and message and submit it. --%>
 
-<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP_Assignment1.Contact" %>
+<%@ Page Title="Contact" Language="C#" MasterPageFile="~/SiteForContact.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP_Assignment1.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
