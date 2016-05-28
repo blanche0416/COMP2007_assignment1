@@ -9,11 +9,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
-        <div class="row">
-            <div class="col-md-offset-4 col-md-8">
                 <h1>Contact Me</h1>
-            </div>
-        </div>
         <div class="row">
             <!-- Here is the my contact info -->
             <div class="col-md-3">

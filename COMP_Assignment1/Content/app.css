@@ -13,7 +13,7 @@
 }
 
 /* make h1 cental*/
-h1{
+h1, p{
     text-align:center;
 }
 
@@ -44,9 +44,11 @@ ul.project li{
 
 /* set social icon's background color */
 .btn-facebook{
+    color:#FFFFFF;
     background-color:#3b5998;
 }
 
 .btn-github {
+    color:#FFFFFF;
     background-color:#444444;
 }
