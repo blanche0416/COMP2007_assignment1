@@ -24,21 +24,22 @@ namespace COMP_Assignment1
             switch (Page.Title)
             {
                 case "Home Page":
-                    home.Attributes.Add("class", "acive");
-                    break;
-                case "Projects":
-                    projects.Attributes.Add("class", "acive");
-                    break;
-                case "Services":
-                    services.Attributes.Add("class", "acive");
+                    home.Attributes.Add("class", "active");
                     break;
                 case "About":
-                    about.Attributes.Add("class", "acive");
+                    about.Attributes.Add("class", "active");
+                    break;
+                case "Projects":
+                    projects.Attributes.Add("class", "active");
+                    break;
+                case "Services":
+                    services.Attributes.Add("class", "active");
                     break;
                 case "Contact":
-                    contact.Attributes.Add("class", "acive");
+                    contact.Attributes.Add("class", "active");
                     break;
             }
+
             return Page.Title;
         }
     }
